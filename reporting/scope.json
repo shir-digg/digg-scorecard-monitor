@@ -3,7 +3,6 @@
     "diggsweden": {
       "included": [
         "dgc-java",
-        ".github",
         "open-source-project-template",
         "rest-api-profil-lint-processor",
         "eudiw-wallet-issuer-poc",
@@ -24,7 +23,9 @@
         "wallet-account",
         "opaque-lib-java"
       ],
-      "excluded": []
+      "excluded": [
+          ".github"
+      ]
     }
   }
 }
