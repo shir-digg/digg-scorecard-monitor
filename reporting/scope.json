@@ -1,8 +1,30 @@
 {
   "github.com": {
-    "included": {},
-    "excluded": {
-      "diggsweden": []
+    "diggsweden": {
+      "included": [
+        "dgc-java",
+        ".github",
+        "open-source-project-template",
+        "rest-api-profil-lint-processor",
+        "eudiw-wallet-issuer-poc",
+        "mla",
+        "wallet-app-android",
+        "eudiw-wallet-token-lib",
+        "cose-lib",
+        "hash2curve-lib-java",
+        "wallet-app-ios",
+        "wallet-provider",
+        "wallet-attribute-attestation",
+        "wallet-verifier-test-web",
+        "wallet-backend-reference",
+        "wallet-client-gateway",
+        "devbase-check",
+        "wallet-r2ps",
+        "r2ps-base",
+        "wallet-account",
+        "opaque-lib-java"
+      ],
+      "excluded": []
     }
   }
 }
