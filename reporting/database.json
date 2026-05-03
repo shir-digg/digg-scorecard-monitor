@@ -74,10 +74,16 @@
         }
       },
       "dgc-java": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 3.2,
+            "date": "2026-04-20",
+            "commit": "cc34d89625e15a002a29244074bdb4f79970ec3a"
+          }
+        ],
         "current": {
-          "score": 3.2,
-          "date": "2026-04-20",
+          "score": 3,
+          "date": "2026-04-27",
           "commit": "cc34d89625e15a002a29244074bdb4f79970ec3a"
         }
       },
@@ -98,10 +104,16 @@
         }
       },
       "wallet-attribute-attestation": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7.8,
+            "date": "2026-04-25T03:30:12Z",
+            "commit": "0b9c9d0bb74989da96a327b9f0216058f3d6f669"
+          }
+        ],
         "current": {
-          "score": 7.8,
-          "date": "2026-04-25T03:30:12Z",
+          "score": 7.5,
+          "date": "2026-05-02T03:34:51Z",
           "commit": "0b9c9d0bb74989da96a327b9f0216058f3d6f669"
         }
       },
@@ -122,11 +134,17 @@
         }
       },
       "wallet-r2ps": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7.5,
+            "date": "2026-04-27T06:14:38Z",
+            "commit": "497710f2358b5e21b1a7cc7dfd633d8f73445948"
+          }
+        ],
         "current": {
-          "score": 7.5,
-          "date": "2026-04-27T06:14:38Z",
-          "commit": "497710f2358b5e21b1a7cc7dfd633d8f73445948"
+          "score": 7.7,
+          "date": "2026-05-02T03:52:43Z",
+          "commit": "d9e26a7deee495d2a8cbf764f849afe030d2ee41"
         }
       },
       "wallet-backend-reference": {
@@ -138,11 +156,17 @@
         }
       },
       "wallet-app-ios": {
-        "previous": [],
+        "previous": [
+          {
+            "score": 7.6,
+            "date": "2026-04-24T02:19:35Z",
+            "commit": "353299a9cfdefdb16bf1ee04a479b28fb4839a2d"
+          }
+        ],
         "current": {
-          "score": 7.6,
-          "date": "2026-04-24T02:19:35Z",
-          "commit": "353299a9cfdefdb16bf1ee04a479b28fb4839a2d"
+          "score": 8.4,
+          "date": "2026-05-01T02:20:40Z",
+          "commit": "8525ce67993ce9a07349c15b7953fe0ea696827f"
         }
       },
       "wallet-provider": {

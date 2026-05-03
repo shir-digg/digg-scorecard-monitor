@@ -24,7 +24,7 @@
         "opaque-lib-java"
       ],
       "excluded": [
-          ".github"
+        ".github"
       ]
     }
   }
