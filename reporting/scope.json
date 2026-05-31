@@ -23,7 +23,8 @@
         "wallet-account",
         "opaque-lib-java",
         "wallet-ecosystem",
-        "wallet-utvecklarportal"
+        "wallet-utvecklarportal",
+        "DCAT-AP-SE-Processor"
       ],
       "excluded": [
         ".github"
