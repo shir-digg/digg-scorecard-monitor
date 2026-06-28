@@ -101,11 +101,16 @@
             "score": 7.6,
             "date": "2026-05-23T03:21:54Z",
             "commit": "27e2ed2c3d1794e84fbc9cc4c67474c61b2a144a"
+          },
+          {
+            "score": 7.3,
+            "date": "2026-06-20T03:22:33Z",
+            "commit": "27e2ed2c3d1794e84fbc9cc4c67474c61b2a144a"
           }
         ],
         "current": {
-          "score": 7.3,
-          "date": "2026-06-20T03:22:33Z",
+          "score": 7.2,
+          "date": "2026-06-27T03:22:04Z",
           "commit": "27e2ed2c3d1794e84fbc9cc4c67474c61b2a144a"
         }
       },
@@ -207,12 +212,17 @@
             "score": 7.1,
             "date": "2026-05-23T04:00:03Z",
             "commit": "04e1eb2bcdd5926e53a6cda946a640f3ec2221fb"
+          },
+          {
+            "score": 7.5,
+            "date": "2026-05-30T04:00:42Z",
+            "commit": "77cd7bb917470d9d5e267e8e21ddcf8e6a6749e8"
           }
         ],
         "current": {
-          "score": 7.5,
-          "date": "2026-05-30T04:00:42Z",
-          "commit": "77cd7bb917470d9d5e267e8e21ddcf8e6a6749e8"
+          "score": 7,
+          "date": "2026-06-27T04:00:26Z",
+          "commit": "c472e5f684f36bc81b3b5bce71d8fc26a1bb81b7"
         }
       },
       "devbase-check": {
@@ -278,11 +288,16 @@
             "score": 7.2,
             "date": "2026-06-13T03:52:56Z",
             "commit": "f80d6fe029385184ff2e4d6c2ff3b56f994e66c2"
+          },
+          {
+            "score": 7.7,
+            "date": "2026-06-20T03:52:43Z",
+            "commit": "39d106fa05f081206696cbcd0ba74b362f2374e0"
           }
         ],
         "current": {
-          "score": 7.7,
-          "date": "2026-06-20T03:52:43Z",
+          "score": 6.9,
+          "date": "2026-06-27T03:52:12Z",
           "commit": "39d106fa05f081206696cbcd0ba74b362f2374e0"
         }
       },
@@ -341,12 +356,17 @@
             "score": 8.1,
             "date": "2026-05-30T04:00:25Z",
             "commit": "788f47170b4121e87c576579878a6e4ef6566c81"
+          },
+          {
+            "score": 8.3,
+            "date": "2026-06-14T02:46:48Z",
+            "commit": "b2832cf390956463b86f1f231883a66c4a3ae2ff"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2026-06-14T02:46:48Z",
-          "commit": "b2832cf390956463b86f1f231883a66c4a3ae2ff"
+          "score": 8.2,
+          "date": "2026-06-27T04:00:17Z",
+          "commit": "80c05646bb2742dcafc5da7eb315af88ab3cdc0c"
         }
       },
       "wallet-backend-reference": {
@@ -355,11 +375,16 @@
             "score": 6.7,
             "date": "2026-04-25T03:34:47Z",
             "commit": "589251d16f6a05a33b1f00ca32a4259f53489a7e"
+          },
+          {
+            "score": 7,
+            "date": "2026-05-09T03:43:49Z",
+            "commit": "3b9317fb2e671143579a459d62f74ca4667e997f"
           }
         ],
         "current": {
-          "score": 7,
-          "date": "2026-05-09T03:43:49Z",
+          "score": 6.8,
+          "date": "2026-06-27T03:44:18Z",
           "commit": "3b9317fb2e671143579a459d62f74ca4667e997f"
         }
       },
@@ -408,12 +433,17 @@
             "score": 7.2,
             "date": "2026-05-23T04:01:22Z",
             "commit": "96be41e4758fc392f54adf3b7b30052e735ff618"
+          },
+          {
+            "score": 7.8,
+            "date": "2026-06-06T04:01:37Z",
+            "commit": "e836114ab686e0c0c13d4cb7448fec5d2aa4609d"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2026-06-06T04:01:37Z",
-          "commit": "e836114ab686e0c0c13d4cb7448fec5d2aa4609d"
+          "score": 7.3,
+          "date": "2026-06-27T04:01:23Z",
+          "commit": "005c3aae554d51d163f49fb2845555a66fe2bd8b"
         }
       },
       "r2ps-base": {
@@ -450,12 +480,17 @@
             "score": 8,
             "date": "2026-05-16T03:57:51Z",
             "commit": "b5011c3b0dec84b0953c5cfa1fc9b19019cbcbe3"
+          },
+          {
+            "score": 7.9,
+            "date": "2026-06-06T04:01:13Z",
+            "commit": "eac64979c1320ab44ea0b3ad6469e5591dcc2f60"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2026-06-06T04:01:13Z",
-          "commit": "eac64979c1320ab44ea0b3ad6469e5591dcc2f60"
+          "score": 8,
+          "date": "2026-06-27T04:01:12Z",
+          "commit": "a7a6fdb5f47dbecf02604c24585dba6084becb3c"
         }
       },
       "wallet-utvecklarportal": {
@@ -474,12 +509,17 @@
             "score": 5.1,
             "date": "2026-06-13T04:01:46Z",
             "commit": "5752ec2a0bfd4cfc43d431d77bdfe6ad0acd5a22"
+          },
+          {
+            "score": 4.8,
+            "date": "2026-06-20T04:01:32Z",
+            "commit": "5752ec2a0bfd4cfc43d431d77bdfe6ad0acd5a22"
           }
         ],
         "current": {
-          "score": 4.8,
-          "date": "2026-06-20T04:01:32Z",
-          "commit": "5752ec2a0bfd4cfc43d431d77bdfe6ad0acd5a22"
+          "score": 5,
+          "date": "2026-06-27T04:00:58Z",
+          "commit": "c226c1d548c9d36fa481136d4846891700cb8865"
         }
       },
       "DCAT-AP-SE-Processor": {
@@ -488,11 +528,16 @@
             "score": 7.8,
             "date": "2026-05-30T04:03:26Z",
             "commit": "765bf0a19825f0c308c535d2b0c0643e2930ff2c"
+          },
+          {
+            "score": 8.3,
+            "date": "2026-06-06T04:03:27Z",
+            "commit": "ac0cb121b0bd597ab19414949beb1883f7cd0754"
           }
         ],
         "current": {
-          "score": 8.3,
-          "date": "2026-06-06T04:03:27Z",
+          "score": 7.7,
+          "date": "2026-06-27T04:03:11Z",
           "commit": "ac0cb121b0bd597ab19414949beb1883f7cd0754"
         }
       }
