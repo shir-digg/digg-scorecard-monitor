@@ -68,12 +68,17 @@
             "score": 8.5,
             "date": "2026-08-01T04:44:14Z",
             "commit": "c7451420e8764a2f13992b2ab74a2691a4a86bff"
+          },
+          {
+            "score": 8.6,
+            "date": "2026-08-15T01:57:18Z",
+            "commit": "1f8128908ec4bbee9eb3b96ae090991fdf63cd49"
           }
         ],
         "current": {
-          "score": 8.6,
-          "date": "2026-08-15T01:57:18Z",
-          "commit": "1f8128908ec4bbee9eb3b96ae090991fdf63cd49"
+          "score": 8.5,
+          "date": "2026-09-12T01:35:01Z",
+          "commit": "8bc58229ad33e68e54240717e16c6b16d3ce2a46"
         }
       },
       "wallet-app-android": {
@@ -213,12 +218,17 @@
             "score": 7.9,
             "date": "2026-07-25T05:25:11Z",
             "commit": "2f13eede43384493f073e206b74a711890d1e747"
+          },
+          {
+            "score": 7.8,
+            "date": "2026-08-08T03:46:20Z",
+            "commit": "2f13eede43384493f073e206b74a711890d1e747"
           }
         ],
         "current": {
-          "score": 7.8,
-          "date": "2026-08-08T03:46:20Z",
-          "commit": "2f13eede43384493f073e206b74a711890d1e747"
+          "score": 8.4,
+          "date": "2026-09-12T02:35:42Z",
+          "commit": "ba2aea51a98e503973826bed209191a897bd3717"
         }
       },
       "eudiw-wallet-issuer-poc": {
@@ -250,11 +260,16 @@
             "score": 7.2,
             "date": "2026-08-26T02:12:32Z",
             "commit": "25a3e92ceec72b869e2d04e4cbdebd9660ad8b7a"
+          },
+          {
+            "score": 7.1,
+            "date": "2026-09-05T01:50:04Z",
+            "commit": "25a3e92ceec72b869e2d04e4cbdebd9660ad8b7a"
           }
         ],
         "current": {
-          "score": 7.1,
-          "date": "2026-09-05T01:50:04Z",
+          "score": 7,
+          "date": "2026-09-12T01:50:13Z",
           "commit": "25a3e92ceec72b869e2d04e4cbdebd9660ad8b7a"
         }
       },
@@ -332,11 +347,16 @@
             "score": 7,
             "date": "2026-08-19T02:37:47Z",
             "commit": "4fb03ef8b81ed4f275b4a1d79ad30564ef64e202"
+          },
+          {
+            "score": 6.8,
+            "date": "2026-09-05T02:30:33Z",
+            "commit": "4fb03ef8b81ed4f275b4a1d79ad30564ef64e202"
           }
         ],
         "current": {
-          "score": 6.8,
-          "date": "2026-09-05T02:30:33Z",
+          "score": 6.6,
+          "date": "2026-09-12T02:31:23Z",
           "commit": "4fb03ef8b81ed4f275b4a1d79ad30564ef64e202"
         }
       },
@@ -675,12 +695,17 @@
             "score": 7.4,
             "date": "2026-08-15T02:59:24Z",
             "commit": "f7420c6b89474c03e1241e32b818b00670d6d5bf"
+          },
+          {
+            "score": 7.9,
+            "date": "2026-09-05T02:46:24Z",
+            "commit": "18fc78354843e4c98fe607d299af150da6b92e45"
           }
         ],
         "current": {
-          "score": 7.9,
-          "date": "2026-09-05T02:46:24Z",
-          "commit": "18fc78354843e4c98fe607d299af150da6b92e45"
+          "score": 8,
+          "date": "2026-09-12T02:46:57Z",
+          "commit": "af23d3398ae5853581f87ab921bb94f8bad5151d"
         }
       },
       "r2ps-base": {
@@ -801,12 +826,17 @@
             "score": 5.8,
             "date": "2026-08-15T02:59:05Z",
             "commit": "e91fd7caff8b19c4314ae4b896a5c73a4d3e8af6"
+          },
+          {
+            "score": 6.7,
+            "date": "2026-09-05T02:45:52Z",
+            "commit": "af2c8c971b16b4faf7db0a547705fb5846e1f29a"
           }
         ],
         "current": {
-          "score": 6.7,
-          "date": "2026-09-05T02:45:52Z",
-          "commit": "af2c8c971b16b4faf7db0a547705fb5846e1f29a"
+          "score": 6.5,
+          "date": "2026-09-12T02:46:46Z",
+          "commit": "fa62a287861d9b6c18ee4306b536dd493cd4dc98"
         }
       },
       "DCAT-AP-SE-Processor": {
@@ -835,12 +865,17 @@
             "score": 7.5,
             "date": "2026-07-11T05:28:27Z",
             "commit": "3ee89bf59e2dc20db284dbc1b7edcb480fdaadbd"
+          },
+          {
+            "score": 7.4,
+            "date": "2026-07-25T05:31:13Z",
+            "commit": "3ee89bf59e2dc20db284dbc1b7edcb480fdaadbd"
           }
         ],
         "current": {
-          "score": 7.4,
-          "date": "2026-07-25T05:31:13Z",
-          "commit": "3ee89bf59e2dc20db284dbc1b7edcb480fdaadbd"
+          "score": 7.6,
+          "date": "2026-09-12T02:47:38Z",
+          "commit": "e438655837a1e577a6bcec8e43b78da22dfda717"
         }
       },
       "wallet-dss-cli": {
