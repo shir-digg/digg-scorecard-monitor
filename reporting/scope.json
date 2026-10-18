@@ -25,7 +25,9 @@
         "wallet-ecosystem",
         "wallet-utvecklarportal",
         "DCAT-AP-SE-Processor",
-        "wallet-dss-cli"
+        "wallet-dss-cli",
+        "wallet-attestation-issuer",
+        "wallet-pki-tool"
       ],
       "excluded": [
         ".github"
