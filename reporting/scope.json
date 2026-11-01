@@ -27,7 +27,9 @@
         "DCAT-AP-SE-Processor",
         "wallet-dss-cli",
         "wallet-attestation-issuer",
-        "wallet-pki-tool"
+        "wallet-pki-tool",
+        "dcat-ap-se-processor",
+        "wallet-keycloak"
       ],
       "excluded": [
         ".github"
