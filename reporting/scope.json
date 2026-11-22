@@ -29,7 +29,8 @@
         "wallet-attestation-issuer",
         "wallet-pki-tool",
         "dcat-ap-se-processor",
-        "wallet-keycloak"
+        "wallet-keycloak",
+        "wallet-auth"
       ],
       "excluded": [
         ".github"
